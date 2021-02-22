@@ -1,0 +1,13 @@
+C:\Users\Ivanesa\source\repos\BILLETES\BILLETES\bin\Debug\netcoreapp3.1\BILLETES.exe
+C:\Users\Ivanesa\source\repos\BILLETES\BILLETES\bin\Debug\netcoreapp3.1\BILLETES.deps.json
+C:\Users\Ivanesa\source\repos\BILLETES\BILLETES\bin\Debug\netcoreapp3.1\BILLETES.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\BILLETES\BILLETES\bin\Debug\netcoreapp3.1\BILLETES.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\BILLETES\BILLETES\bin\Debug\netcoreapp3.1\BILLETES.dll
+C:\Users\Ivanesa\source\repos\BILLETES\BILLETES\bin\Debug\netcoreapp3.1\BILLETES.pdb
+C:\Users\Ivanesa\source\repos\BILLETES\BILLETES\obj\Debug\netcoreapp3.1\BILLETES.csprojAssemblyReference.cache
+C:\Users\Ivanesa\source\repos\BILLETES\BILLETES\obj\Debug\netcoreapp3.1\BILLETES.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\BILLETES\BILLETES\obj\Debug\netcoreapp3.1\BILLETES.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\BILLETES\BILLETES\obj\Debug\netcoreapp3.1\BILLETES.csproj.CoreCompileInputs.cache
+C:\Users\Ivanesa\source\repos\BILLETES\BILLETES\obj\Debug\netcoreapp3.1\BILLETES.dll
+C:\Users\Ivanesa\source\repos\BILLETES\BILLETES\obj\Debug\netcoreapp3.1\BILLETES.pdb
+C:\Users\Ivanesa\source\repos\BILLETES\BILLETES\obj\Debug\netcoreapp3.1\BILLETES.genruntimeconfig.cache
